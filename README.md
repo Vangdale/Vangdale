@@ -1,4 +1,4 @@
-```
+<pre>
                                                                                 
   ██╗   ██╗ █████╗ ███╗   ██╗ ██████╗ ██████╗  █████╗ ██╗     ███████╗
   ██║   ██║██╔══██╗████╗  ██║██╔════╝ ██╔══██╗██╔══██╗██║     ██╔════╝
@@ -7,11 +7,11 @@
    ╚████╔╝ ██║  ██║██║ ╚████║╚██████╔╝██████╔╝██║  ██║███████╗███████╗
     ╚═══╝  ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝ ╚═════╝ ╚═╝  ╚═╝╚══════╝╚══════╝
                                                                                 
-```
+</pre>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&multiline=true&width=520&height=45&lines=A+developer+who+aspires+to+learn+everything+that+life+allows." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=3000&pause=1500&color=58A6FF&center=true&vCenter=true&width=700&height=45&lines=A+developer+who+aspires+to+learn+everything+that+life+allows." alt="Typing SVG" />
 
 </div>
 
@@ -45,7 +45,7 @@
 
 ---
 
-```
+<pre>
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢸⣿⣥⡀⠀⢠⣤⣤⣤⣤⣄⣀⣀⡀⠀⠀⠀⠀⠀⠀⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⠘⢎⣿⣿⣿⣿⣿⡆⠈⠀⣿⣆⠀⠏⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠸⣿⣿⣷⡀⠈⢿⣿⣿⣿⣿⣿⣿⣿⣷⣶⣦⡀⠀⠀⠀⠀⠀⠉⠙⠻⢿⣿⣿⣿⣿⣯⣿⣿⣿⣿⣿⣿⣧⠊⠸⣿⣿⣿⣿⣿⡄⠀⢿⡿⠀⠈⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣷⠁⠀⠘⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⢠⠀⠀⠱⡀⠀⢤⣤⣄⣀⠈⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⢂⢹⣿⣿⣿⣿⣿⣦⡈⢿⠠⠀⠀⠀
@@ -61,4 +61,4 @@
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣷⡀⠀⠀⠀⠀⠀⠀⠸⢿⣿⣿⣿⣿⡟⠰⠁⠀⣱⣿⠀⣿⠀⢻⣿⣿⣿⣿⣿⣿⣿⢧⠸⣿⣷⠀⡀⠐⠀⠠⢿⣿⡿⠆⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠠⡀⠀⠀⠀⠀⠸⣷⡄⠀⠀⠀⠀⠀⣶⣄⠙⠿⣿⣿⡇⢀⢀⣼⣿⣿⠀⣿⠀⢸⣿⣿⣿⣿⣿⣿⣿⣾⠰⣿⡿⣸⣯⠀⣄⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 ⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⢀⣀⠀⠀⠀⠀⠘⣿⡀⠀⠀⠀⠀⢹⣿⣦⢀⠘⠟⠁⠀⣾⣿⣿⢇⠀⠇⠂⣸⣿⣿⣿⣿⣿⣿⣿⣿⡀⣿⣿⣿⣏⣾⠯⠀⠀⠀⠀⠀⢂⠀⠀⠀⠀⠀
-```
+</pre>
